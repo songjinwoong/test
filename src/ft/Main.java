@@ -7,6 +7,7 @@ public class Main {
 		System.out.println("출력");
 		System.out.println("수정1");
 		System.out.println("수정2");
+		System.out.println("수정3");
 	}
 
 }
