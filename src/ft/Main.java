@@ -6,6 +6,7 @@ public class Main {
 		// TODO Auto-generated method stub
 		System.out.println("utf-8 한글");
 		System.out.println("utf-8 한글");
+		System.out.println("utf-8 한글");
 
 	}
 
